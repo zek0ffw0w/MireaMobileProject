@@ -1,0 +1,15 @@
+com/mygdx/game/Health.java
+ com.mygdx.game.Health
+ com.mygdx.game.Health$HealthPair
+com/mygdx/game/Enemy.java
+ com.mygdx.game.Enemy
+ com.mygdx.game.Enemy$EnemyPair
+com/mygdx/game/Background.java
+ com.mygdx.game.Background
+ com.mygdx.game.Background$BackGroundMas
+com/mygdx/game/MyGdxGame.java
+ com.mygdx.game.MyGdxGame
+com/mygdx/game/Player.java
+ com.mygdx.game.Player
+com/mygdx/game/RacerIllegalGame.java
+ com.mygdx.game.RacerIllegalGame
